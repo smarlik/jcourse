@@ -28,7 +28,6 @@ public class ArrayPractice {
     }
 
     public static void main(String[] args) {
-        int[] intArray1;
         int[] intArray2= new int[4];
         printArray(intArray2);
         int[] intArray3= {5,2,9,1,3};
